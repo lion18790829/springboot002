@@ -12,3 +12,8 @@ $ git config --global user.email "saroolionet81@gmail.com"
 
 N@DESKTOP-JJ3MB07 MINGW64 /c/workspace/SpringBoot/global (master)
 $ git config --global user.name "lion18790829"
+
+application.properties
+  server.port=9090
+
+
