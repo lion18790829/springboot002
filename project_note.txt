@@ -1,0 +1,14 @@
+20130205
+
+init project
+
+N@DESKTOP-JJ3MB07 MINGW64 /c/workspace/SpringBoot/globalit (master)
+N@DESKTOP-JJ3MB07 MINGW64 /c/workspace/SpringBoot/global (master)
+$ git init
+Initialized existing Git repository in C:/workspace/SpringBoot/global/.git/
+
+N@DESKTOP-JJ3MB07 MINGW64 /c/workspace/SpringBoot/global (master)
+$ git config --global user.email "saroolionet81@gmail.com"
+
+N@DESKTOP-JJ3MB07 MINGW64 /c/workspace/SpringBoot/global (master)
+$ git config --global user.name "lion18790829"
